@@ -1,6 +1,18 @@
 ## Projeto para disciplina verificação e validação de software
 
-**Documentação de Casos de Teste:**
+#### Instalar as dependência do nodeJs
+
+- `npm run install`
+
+#### Executar os testes unitário:
+
+- `npm run test`
+
+#### Executar a Cobertura
+
+- `npm run coverage`
+
+## Documentação de Casos de Teste:
 
 Aqui estão quatro cenários de teste para cada um dos métodos (create, read, update e delete) da classe `Student`.
 
