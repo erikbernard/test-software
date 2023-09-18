@@ -1,0 +1,17 @@
+{
+  "name": "test-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jasmine",
+    "coverage": "nyc --reporter=html jasmine" 
+  },
+  "author": "Goku o pika superior",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "nyc": "^15.1.0"
+  }
+}
